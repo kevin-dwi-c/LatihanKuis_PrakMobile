@@ -116,7 +116,7 @@ class _HomePageState extends State<HomePage> {
               context,
               MaterialPageRoute(
                 builder: (context) {
-                  return DetailPage(animal: animal,);
+                  return DetailPage(animal: animal);
                 },
               ),
             );
