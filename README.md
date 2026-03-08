@@ -6,19 +6,19 @@ The application allows users to log in and explore a collection of animals displ
 
 ## Features
 
-* 🔐 Login system with username and password validation
-* 🐅 Animal list displayed using GridView
-* 📄 Detailed animal information page
-* 👤 User profile page displaying logged-in username
-* 🚪 Logout functionality with confirmation dialog
-* 🔙 Navigation between pages using Navigator
-* 📱 Bottom Navigation Bar for Home and Profile
+- 🔐 Login system with username and password validation
+- 🐅 Animal list displayed using GridView
+- 📄 Detailed animal information page
+- 👤 User profile page displaying logged-in username
+- 🚪 Logout functionality with confirmation dialog
+- 🔙 Navigation between pages using Navigator
+- 📱 Bottom Navigation Bar for Home and Profile
 
 ## Technologies Used
 
-* Flutter
-* Dart
-* Material UI Components
+- Flutter
+- Dart
+- Material UI Components
 
 ## Application Structure
 
